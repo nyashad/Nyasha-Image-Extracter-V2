@@ -4,7 +4,7 @@ import os
 from PIL import Image
 
 #Define path to PDF file
-file_path = 'sample.pdf'
+file_path = 'samplen.pdf'
 
 #Open PDF file
 pdf_file = fitz.open(file_path)
